@@ -11,6 +11,7 @@
   "sections": {
     "hero_rhMed7": {
       "type": "hero",
+      "disabled": true,
       "name": "t:names.hero",
       "settings": {
         "media_type_1": "image",
