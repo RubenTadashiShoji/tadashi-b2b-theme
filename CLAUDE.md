@@ -27,3 +27,20 @@ B2B COMPANY
 CUSTOMER ACCOUNT
 PRICE LIST
 PAYMENT TERMS
+
+
+PROJECT CONTEXT
+
+Platform: Shopify Plus
+Project: Tadashi Shoji B2B Wholesale
+Theme development using Liquid
+Dev store: ruben-b2b-dev
+Production store: Tadashi Shoji Wholesale
+
+Workflow:
+
+DEV STORE
+→ GitHub
+→ PRODUCTION STORE
+
+We develop locally with Shopify CLI.
