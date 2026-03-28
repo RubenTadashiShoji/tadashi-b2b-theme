@@ -198,6 +198,9 @@
   .end {
     inset-inline-end: var(--spacing);
   }
+  .isolate {
+    isolation: isolate;
+  }
   .row-1 {
     grid-row: 1;
   }
@@ -258,6 +261,9 @@
   .grow {
     flex-grow: 1;
   }
+  .border-collapse {
+    border-collapse: collapse;
+  }
   .transform {
     transform: var(--tw-rotate-x,) var(--tw-rotate-y,) var(--tw-rotate-z,) var(--tw-skew-x,) var(--tw-skew-y,);
   }
@@ -271,6 +277,9 @@
     overflow: hidden;
     text-overflow: ellipsis;
     white-space: nowrap;
+  }
+  .overflow-hidden {
+    overflow: hidden;
   }
   .rounded {
     border-radius: 0.25rem;
