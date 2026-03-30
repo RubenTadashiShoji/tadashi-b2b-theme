@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "image_banner": {
@@ -37,31 +46,31 @@
       "settings": {
         "image_overlay_opacity": 40,
         "image_height": "small",
-        "desktop_content_position": "middle-left",
-        "show_text_box": false,
-        "desktop_content_alignment": "left",
-        "color_scheme": "scheme-5",
         "image_behavior": "none",
-        "mobile_content_alignment": "center",
+        "desktop_content_position": "middle-left",
+        "desktop_content_alignment": "left",
+        "show_text_box": false,
+        "color_scheme": "scheme-5",
         "stack_images_on_mobile": true,
+        "mobile_content_alignment": "center",
         "show_text_below": false
       }
     },
     "featured_collection1": {
       "type": "featured-collection",
       "settings": {
+        "collection": "flagship",
+        "products_to_show": 10,
         "title": "Proven bestsellers",
         "heading_size": "h2",
         "description": "",
         "show_description": false,
         "description_style": "body",
-        "collection": "",
-        "products_to_show": 10,
         "columns_desktop": 5,
+        "enable_desktop_slider": false,
         "full_width": false,
         "show_view_all": true,
         "view_all_style": "solid",
-        "enable_desktop_slider": false,
         "color_scheme": "",
         "image_ratio": "adapt",
         "image_shape": "default",
@@ -132,18 +141,18 @@
     "featured_collection2": {
       "type": "featured-collection",
       "settings": {
+        "collection": "",
+        "products_to_show": 6,
         "title": "New arrivals",
         "heading_size": "h2",
         "description": "",
         "show_description": false,
         "description_style": "body",
-        "collection": "",
-        "products_to_show": 6,
         "columns_desktop": 5,
+        "enable_desktop_slider": true,
         "full_width": false,
         "show_view_all": false,
         "view_all_style": "solid",
-        "enable_desktop_slider": true,
         "color_scheme": "",
         "image_ratio": "adapt",
         "image_shape": "default",
