@@ -10,6 +10,65 @@
 {
   "current": {
     "logo": "shopify://shop_images/TS_logo_full_black_c9cd87bd-4ea1-4ecf-91f1-5525db2ef881.png",
-    "content_for_index": []
-  }
+    "favicon": "shopify://shop_images/TS_logo_short_black.jpg",
+    "content_for_index": [],
+    "color_schemes": {
+      "scheme-1": {
+        "settings": {
+          "background": "#FFFFFF",
+          "background_gradient": "",
+          "text": "#121212",
+          "button": "#121212",
+          "button_label": "#FFFFFF",
+          "secondary_button_label": "#121212",
+          "shadow": "#121212"
+        }
+      },
+      "scheme-2": {
+        "settings": {
+          "background": "#F8F7F5",
+          "background_gradient": "",
+          "text": "#121212",
+          "button": "#121212",
+          "button_label": "#FFFFFF",
+          "secondary_button_label": "#121212",
+          "shadow": "#121212"
+        }
+      },
+      "scheme-3": {
+        "settings": {
+          "background": "#EDE9E3",
+          "background_gradient": "",
+          "text": "#121212",
+          "button": "#121212",
+          "button_label": "#FFFFFF",
+          "secondary_button_label": "#121212",
+          "shadow": "#121212"
+        }
+      },
+      "scheme-4": {
+        "settings": {
+          "background": "#1C1C1C",
+          "background_gradient": "",
+          "text": "#FFFFFF",
+          "button": "#FFFFFF",
+          "button_label": "#1C1C1C",
+          "secondary_button_label": "#FFFFFF",
+          "shadow": "#000000"
+        }
+      },
+      "scheme-5": {
+        "settings": {
+          "background": "#0D0D0D",
+          "background_gradient": "",
+          "text": "#FFFFFF",
+          "button": "#FFFFFF",
+          "button_label": "#0D0D0D",
+          "secondary_button_label": "#FFFFFF",
+          "shadow": "#000000"
+        }
+      }
+    }
+  },
+  "presets": {}
 }
