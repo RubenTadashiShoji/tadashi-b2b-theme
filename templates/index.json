@@ -47,28 +47,6 @@
         "show_text_below": false
       }
     },
-    "rich_text": {
-      "type": "rich-text",
-      "blocks": {
-        "text": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Outstanding service | Exclusive pricing | Industry expertise</p>"
-          }
-        }
-      },
-      "block_order": [
-        "text"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "scheme-3",
-        "full_width": true,
-        "padding_top": 4,
-        "padding_bottom": 4
-      }
-    },
     "featured_collection1": {
       "type": "featured-collection",
       "settings": {
@@ -149,69 +127,6 @@
         "swipe_on_mobile": false,
         "padding_top": 48,
         "padding_bottom": 60
-      }
-    },
-    "multicolumn1": {
-      "type": "multicolumn",
-      "blocks": {
-        "column7": {
-          "type": "column",
-          "settings": {
-            "title": "Add a customer testimonial",
-            "text": "",
-            "link_label": "Shop now",
-            "link": ""
-          }
-        },
-        "column8": {
-          "type": "column",
-          "settings": {
-            "title": "Add a customer testimonial",
-            "text": "",
-            "link_label": "Shop now",
-            "link": ""
-          }
-        },
-        "column9": {
-          "type": "column",
-          "settings": {
-            "title": "Add a customer testimonial",
-            "text": "",
-            "link_label": "Shop now",
-            "link": ""
-          }
-        },
-        "column10": {
-          "type": "column",
-          "settings": {
-            "title": "Add a customer testimonial",
-            "text": "",
-            "link_label": "Shop now",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "column7",
-        "column8",
-        "column9",
-        "column10"
-      ],
-      "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 4,
-        "column_alignment": "center",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "scheme-2",
-        "columns_mobile": "1",
-        "swipe_on_mobile": true,
-        "padding_top": 68,
-        "padding_bottom": 68
       }
     },
     "featured_collection2": {
@@ -308,10 +223,8 @@
   },
   "order": [
     "image_banner",
-    "rich_text",
     "featured_collection1",
     "collection_list",
-    "multicolumn1",
     "featured_collection2",
     "multicolumn2"
   ]
