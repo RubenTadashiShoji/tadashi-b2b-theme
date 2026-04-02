@@ -9,62 +9,62 @@
  */
 {
   "current": {
-    "logo": "shopify://shop_images/TS_logo_full_black_c9cd87bd-4ea1-4ecf-91f1-5525db2ef881.png",
-    "favicon": "shopify://shop_images/TS_logo_short_black.jpg",
+    "logo": "shopify://shop_images/TS_logo_full_black_430x_dcf49a3e-4c58-42a3-956b-d6eba865d040.avif",
+    "favicon": "shopify://shop_images/TS_logo_short_black_430x_1ab0dfef-7785-4b0e-b192-e6ce3d80a20d.webp",
     "content_for_index": [],
     "color_schemes": {
       "scheme-1": {
         "settings": {
-          "background": "#FFFFFF",
+          "background": "#ffffff",
           "background_gradient": "",
           "text": "#121212",
           "button": "#121212",
-          "button_label": "#FFFFFF",
+          "button_label": "#ffffff",
           "secondary_button_label": "#121212",
           "shadow": "#121212"
         }
       },
       "scheme-2": {
         "settings": {
-          "background": "#F8F7F5",
+          "background": "#f8f7f5",
           "background_gradient": "",
           "text": "#121212",
           "button": "#121212",
-          "button_label": "#FFFFFF",
+          "button_label": "#ffffff",
           "secondary_button_label": "#121212",
           "shadow": "#121212"
         }
       },
       "scheme-3": {
         "settings": {
-          "background": "#EDE9E3",
+          "background": "#ede9e3",
           "background_gradient": "",
           "text": "#121212",
           "button": "#121212",
-          "button_label": "#FFFFFF",
+          "button_label": "#ffffff",
           "secondary_button_label": "#121212",
           "shadow": "#121212"
         }
       },
       "scheme-4": {
         "settings": {
-          "background": "#1C1C1C",
+          "background": "#1c1c1c",
           "background_gradient": "",
-          "text": "#FFFFFF",
-          "button": "#FFFFFF",
-          "button_label": "#1C1C1C",
-          "secondary_button_label": "#FFFFFF",
+          "text": "#ffffff",
+          "button": "#ffffff",
+          "button_label": "#1c1c1c",
+          "secondary_button_label": "#ffffff",
           "shadow": "#000000"
         }
       },
       "scheme-5": {
         "settings": {
-          "background": "#0D0D0D",
+          "background": "#0d0d0d",
           "background_gradient": "",
-          "text": "#FFFFFF",
-          "button": "#FFFFFF",
-          "button_label": "#0D0D0D",
-          "secondary_button_label": "#FFFFFF",
+          "text": "#ffffff",
+          "button": "#ffffff",
+          "button_label": "#0d0d0d",
+          "secondary_button_label": "#ffffff",
           "shadow": "#000000"
         }
       }
