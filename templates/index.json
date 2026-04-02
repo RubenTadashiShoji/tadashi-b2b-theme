@@ -44,6 +44,7 @@
         "button"
       ],
       "settings": {
+        "image": "shopify://shop_images/home_page_banner.jpg",
         "image_overlay_opacity": 40,
         "image_height": "small",
         "image_behavior": "none",
