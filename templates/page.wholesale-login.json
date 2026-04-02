@@ -1,0 +1,28 @@
+{
+  "sections": {
+    "wholesale_hero": {
+      "type": "wholesale-login-hero",
+      "settings": {
+        "eyebrow": "Wholesale Portal",
+        "heading": "Welcome to Tadashi Shoji Wholesale",
+        "subtext": "Exclusively for approved wholesale buyers. Sign in with your account credentials to access pricing, catalogs, and order tools.",
+        "button_label": "Access Wholesale Account",
+        "show_note": true,
+        "note": "Don't have access? Contact your sales representative to request an account.",
+        "background_color": "#ffffff",
+        "eyebrow_color": "#999999",
+        "heading_color": "#1a1a1a",
+        "text_color": "#4a4a4a",
+        "button_background": "#1a1a1a",
+        "button_text_color": "#ffffff",
+        "logo_max_width": 180,
+        "min_height": 600,
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    }
+  },
+  "order": [
+    "wholesale_hero"
+  ]
+}
