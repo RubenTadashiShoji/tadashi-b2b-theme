@@ -10,6 +10,7 @@
 {
   "current": {
     "logo": "shopify://shop_images/TS-LOGO-400x80_54700.png",
+    "logo_width": 300,
     "favicon": "shopify://shop_images/TS_logo_short_black.jpg",
     "content_for_index": [],
     "color_schemes": {
