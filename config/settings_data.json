@@ -12,6 +12,20 @@
     "logo": "shopify://shop_images/TS-LOGO-400x80_54700.png",
     "logo_width": 300,
     "favicon": "shopify://shop_images/TS_logo_short_black.jpg",
+    "sections": {
+      "main-password-header": {
+        "type": "main-password-header",
+        "settings": {
+          "color_scheme": "scheme-1"
+        }
+      },
+      "main-password-footer": {
+        "type": "main-password-footer",
+        "settings": {
+          "color_scheme": ""
+        }
+      }
+    },
     "content_for_index": [],
     "color_schemes": {
       "scheme-1": {
