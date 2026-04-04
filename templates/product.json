@@ -16,6 +16,24 @@
           "type": "title",
           "settings": {}
         },
+        "text_qeVkmj": {
+          "type": "text",
+          "settings": {
+            "text": "Color:",
+            "text_style": "uppercase"
+          }
+        },
+        "color_AFpFYe": {
+          "type": "color",
+          "settings": {}
+        },
+        "text_LqtNYD": {
+          "type": "text",
+          "settings": {
+            "text": "SKU:",
+            "text_style": "uppercase"
+          }
+        },
         "style_sku_aEBdUQ": {
           "type": "style_sku",
           "settings": {}
@@ -67,6 +85,9 @@
       },
       "block_order": [
         "title",
+        "text_qeVkmj",
+        "color_AFpFYe",
+        "text_LqtNYD",
         "style_sku_aEBdUQ",
         "price",
         "description",
