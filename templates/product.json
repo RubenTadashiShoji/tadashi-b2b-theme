@@ -16,11 +16,9 @@
           "type": "title",
           "settings": {}
         },
-        "sku_jdxh8r": {
-          "type": "sku",
-          "settings": {
-            "text_style": "body"
-          }
+        "style_sku_aEBdUQ": {
+          "type": "style_sku",
+          "settings": {}
         },
         "price": {
           "type": "price",
@@ -69,7 +67,7 @@
       },
       "block_order": [
         "title",
-        "sku_jdxh8r",
+        "style_sku_aEBdUQ",
         "price",
         "description",
         "collapsible-row-1",
