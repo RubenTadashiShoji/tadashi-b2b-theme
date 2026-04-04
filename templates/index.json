@@ -142,8 +142,8 @@
     "featured_collection2": {
       "type": "featured-collection",
       "settings": {
-        "collection": "new-styles",
-        "products_to_show": 10,
+        "collection": "new",
+        "products_to_show": 12,
         "title": "New arrivals",
         "heading_size": "h2",
         "description": "",
