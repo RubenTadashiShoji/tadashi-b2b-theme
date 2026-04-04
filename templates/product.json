@@ -16,13 +16,6 @@
           "type": "title",
           "settings": {}
         },
-        "text_qeVkmj": {
-          "type": "text",
-          "settings": {
-            "text": "Color:",
-            "text_style": "uppercase"
-          }
-        },
         "color_AFpFYe": {
           "type": "color",
           "settings": {}
@@ -85,7 +78,6 @@
       },
       "block_order": [
         "title",
-        "text_qeVkmj",
         "color_AFpFYe",
         "text_LqtNYD",
         "style_sku_aEBdUQ",
