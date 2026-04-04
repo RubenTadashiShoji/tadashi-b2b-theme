@@ -91,25 +91,25 @@
         "featured_collection1": {
           "type": "featured_collection",
           "settings": {
-            "collection": ""
+            "collection": "gowns"
           }
         },
         "featured_collection2": {
           "type": "featured_collection",
           "settings": {
-            "collection": ""
+            "collection": "cocktail"
           }
         },
         "featured_collection3": {
           "type": "featured_collection",
           "settings": {
-            "collection": ""
+            "collection": "bridal"
           }
         },
         "featured_collection4": {
           "type": "featured_collection",
           "settings": {
-            "collection": ""
+            "collection": "plus"
           }
         },
         "featured_collection5": {
