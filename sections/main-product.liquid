@@ -216,6 +216,21 @@
                 >
                   {{- product.selected_or_first_available_variant.sku | split: '-' | slice: 0, 2 | join: '-' -}}
                 </div>
+              {%- when 'color' -%}
+                {%- assign color_value = nil -%}
+                {%- for option_name in product.options -%}
+                  {%- if option_name == 'Color' -%}
+                    {%- assign color_value = product.selected_or_first_available_variant.options[forloop.index0] -%}
+                  {%- endif -%}
+                {%- endfor -%}
+                <div
+                  class="product__color"
+                  id="Color-{{ section.id }}"
+                  role="status"
+                  {{ block.shopify_attributes }}
+                >
+                  {{- color_value -}}
+                </div>
               {%- when 'custom_liquid' -%}
                 {{ block.settings.custom_liquid }}
               {%- when 'collapsible_tab' -%}
@@ -828,6 +843,11 @@
     {
       "type": "style_sku",
       "name": "Style SKU",
+      "limit": 1
+    },
+    {
+      "type": "color",
+      "name": "Color",
       "limit": 1
     },
     {
