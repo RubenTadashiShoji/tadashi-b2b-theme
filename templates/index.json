@@ -60,7 +60,7 @@
     "featured_collection1": {
       "type": "featured-collection",
       "settings": {
-        "collection": "flagship",
+        "collection": "flasgship",
         "products_to_show": 10,
         "title": "Proven bestsellers",
         "heading_size": "h2",
